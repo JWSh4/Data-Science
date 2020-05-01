@@ -7,4 +7,6 @@ I will not upload every tiny project but only the ones which I think it is worth
 
 For anyone who is interested feel free to have look into my projects. I appreciate any constructive comment.
 
-1. 
+Projects:
+
+1. Visualizing Earnings Based On College Majors
